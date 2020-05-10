@@ -36,7 +36,7 @@
 ## INSTALLATION
 
     $ git clone https://github.com/ProjectorBUg/H4CK-FB-NEWS.git
-    $ cd FBTOOL
+    $ cd H4CK-FB-NEWS
 
 ## USAGE
 
